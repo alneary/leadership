@@ -21,14 +21,14 @@ If I say I’m going to do something, I follow through. I believe in holding mys
 I’m constantly seeking feedback, investing in personal development, and sharing what I learn with others. I encourage my team to do the same, teaching them how to solve problems independently and adapt to new challenges.
 
 ## What Motivates Me
-### Solving Complex Challenges: 
-I’m energized by finding solutions to difficult problems, especially when they unlock new capabilities for teams or organizations.
+### Solving Complex, Data-Driven Challenges:
+I thrive on figuring out complex problems that unlock new capabilities, whether it’s developing predictive models to improve patient outcomes or creating data pipelines that enhance efficiency.
 
-### Driving Innovation: 
-I love planting the seed of an idea and watching it grow, especially when it inspires others to push boundaries and try new things.
+### Driving Innovation through AI and Advanced Analytics: 
+I enjoy translating data into actionable insights that lead to measurable business results, such as cost savings, improved healthcare outcomes, or operational efficiencies. I love planting the seed of an idea and watching it grow, especially when it inspires others to push boundaries and try new things.
 
-### Supporting Mental Well-Being: 
-I understand the significant role a leader plays in their team’s mental well-being. I’m committed to creating psychologically safe environments where team members can thrive and feel supported.
+### Supporting Team and Mental Well-Being: 
+I take seriously the role a leader plays in a team’s mental health. I create a positive environment where team members are encouraged to take risks, embrace challenges, and achieve personal and professional growth.
 
 ### Creating Opportunities for Courage: 
 I encourage others to take risks, try challenging things, and develop resilience, knowing that this is how both individuals and teams reach their highest potential.
