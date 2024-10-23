@@ -30,6 +30,7 @@ I love planting the seed of an idea and watching it grow, especially when it ins
 ### Supporting Mental Well-Being: 
 I understand the significant role a leader plays in their team’s mental well-being. I’m committed to creating psychologically safe environments where team members can thrive and feel supported.
 
-### Creating Opportunities for Courage: I encourage others to take risks, try challenging things, and develop resilience, knowing that this is how both individuals and teams reach their highest potential.
+### Creating Opportunities for Courage: 
+I encourage others to take risks, try challenging things, and develop resilience, knowing that this is how both individuals and teams reach their highest potential.
 
 I’m passionate about building teams that make a real difference, whether that’s through data-driven insights or ethical, innovative use of technology. I believe that leadership is about more than achieving goals—it’s about creating a positive, lasting impact on the people and the world around us.
